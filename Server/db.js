@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const mongouri =
-  "mongodb+srv://Ajayprmk:ajayprmk@cluster0.pap6tc8.mongodb.net/Photo-Management-App";
+  "your-Mongodb-URI";
 const mongodb = async () => {
   await mongoose
     .connect(mongouri)
