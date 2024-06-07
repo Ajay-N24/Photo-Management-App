@@ -1,4 +1,4 @@
-# 📸 Photo Management App
+![image](https://github.com/Ajay-N24/Photo-Management-App/assets/130553422/89eb7ac6-94a7-4400-b952-45e5d550ee0d)# 📸 Photo Management App
 The Photo Management App is a comprehensive platform designed to facilitate the seamless upload, storage, and organization of images. Users can easily upload photos through a user-friendly interface, providing titles and descriptions for easy categorization. The app leverages external APIs for image hosting, ensuring efficient storage and accessibility. It includes features like unique URL generation for each photo, duplicate detection to prevent redundancy, and real-time feedback using notifications for successful uploads or errors.
 <br/><br/>
 ## 🚀 Features<br/>
@@ -9,7 +9,8 @@ Duplicate Detection: Prevents redundancy by detecting duplicate images.<br/>
 Real-Time Feedback: Provides notifications for successful uploads or errors.<br/><br/><br/>
 ## Screenshots<br>
 ![image](https://github.com/Ajay-N24/Photo-Management-App/assets/130553422/7c61e4a9-ac50-42d4-92f5-60181ade5453)
-![Uploading image.png…]()
+![image](https://github.com/Ajay-N24/Photo-Management-App/assets/130553422/1fc5356c-72f3-4a12-94df-ce0c7a870b3c)
+
 <br/><br/>
 ## 🛠️ Technologies Used<br/>
 Frontend<br/>
