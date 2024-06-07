@@ -4,6 +4,7 @@ The Photo Management App is a comprehensive platform designed to facilitate the 
 ## 🚀 Features<br/>
 Upload Photos: Easily upload photos with titles and descriptions.<br/>
 Image Hosting: Leverages external APIs for efficient image hosting.<br/>
+Search Functionality: Allows Users to search for images using Image's Title.<br/>
 Unique URL Generation: Generates unique URLs for each photo.<br/>
 Duplicate Detection: Prevents redundancy by detecting duplicate images.<br/>
 Real-Time Feedback: Provides notifications for successful uploads or errors.<br/><br/><br/>
