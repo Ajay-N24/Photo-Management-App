@@ -9,8 +9,8 @@ Duplicate Detection: Prevents redundancy by detecting duplicate images.<br/>
 Real-Time Feedback: Provides notifications for successful uploads or errors.<br/><br/><br/>
 ## Screenshots<br>
 ![image](https://github.com/Ajay-N24/Photo-Management-App/assets/130553422/7c61e4a9-ac50-42d4-92f5-60181ade5453)
-
-
+![Uploading image.png…]()
+<br/><br/>
 ## 🛠️ Technologies Used<br/>
 Frontend<br/>
 Backend<br/>
