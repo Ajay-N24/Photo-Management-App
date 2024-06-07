@@ -10,6 +10,7 @@ Real-Time Feedback: Provides notifications for successful uploads or errors.<br/
 ## Screenshots<br>
 ![image](https://github.com/Ajay-N24/Photo-Management-App/assets/130553422/7c61e4a9-ac50-42d4-92f5-60181ade5453)
 ![image](https://github.com/Ajay-N24/Photo-Management-App/assets/130553422/1fc5356c-72f3-4a12-94df-ce0c7a870b3c)
+![image](https://github.com/Ajay-N24/Photo-Management-App/assets/130553422/5238bd49-7dd2-426a-afc1-8175a1d65436)
 
 <br/><br/>
 ## 🛠️ Technologies Used<br/>
