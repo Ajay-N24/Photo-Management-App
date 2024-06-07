@@ -14,9 +14,9 @@ Real-Time Feedback: Provides notifications for successful uploads or errors.<br/
 
 <br/><br/>
 ## 🛠️ Technologies Used<br/>
-Frontend<br/>
-Backend<br/>
-Database/Storage<br/><br/><br/>
+Frontend: React.js, Tailwind CSS, Redux<br/>
+Backend: Node.js, Express.js<br/>
+Database/Storage: Mongodb, ImageBB<br/><br/><br/>
 ## 📂 Project Setup<br/>
 Prerequisites<br/>
 Node.js<br/>
