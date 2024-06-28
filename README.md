@@ -25,8 +25,8 @@ MongoDB<br/>
 ImageBB API Key<br/>
 ## Installation<br/>
 Clone the repository:<br/>
-git clone https://github.com/your-username/photo-management-app.git<br/>
-cd photo-management-app<br/><br/><br/>
+git clone [https://github.com/your-username/photo-management-app.git](https://github.com/Ajay-N24/PhotoShare.git)<br/>
+cd PhotoShare<br/><br/><br/>
 Install dependencies:<br/>
 npm install<br/>
 Setup environment variables:<br/>
